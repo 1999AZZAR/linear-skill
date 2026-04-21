@@ -1,0 +1,6 @@
+.codex
+memory.db
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
